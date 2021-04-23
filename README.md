@@ -10,13 +10,13 @@ Projeto DSCalculator Idealizado Por:
 # Objetivo
 O Projeto Tem como Objetivo a construção de um sistema distribuído com servidores MultiThread com a função de Criar uma calculadora que aceite até dois operandos e um operador, que possa fazer as seguintes funções:
 
-Servidor A
+Servidor A:
 -Soma;			
 -Subtração;		
 -Multiplicação;		
--Divisão;
+-Divisão.
 
-Servidor B
+Servidor B:
 -Porcentagem;
 -Raiz Quadrada;
 -Potenciação.
